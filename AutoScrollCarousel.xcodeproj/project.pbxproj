@@ -13,6 +13,9 @@
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		FC601C632E0824A100189E24 /* AutoScrollCarousel */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
+			explicitFolders = (
+				media,
+			);
 			path = AutoScrollCarousel;
 			sourceTree = "<group>";
 		};
